@@ -35,6 +35,11 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
+      title: Research Interests
+      text: |
+        `Machine Learning` `Computer Vision` `Bayesian Inference`
+  - block: markdown
+    content:
       title: '📚 My Research'
       subtitle: ''
       text: |-
