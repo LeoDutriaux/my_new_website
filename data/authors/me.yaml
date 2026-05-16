@@ -43,23 +43,23 @@ interests:
   - Embodied cognition
 
 education:
-  - degree: PhD Cognitive Science
+  - degree: PhD Cognitive Science, 2016
     institution: Université Paris Cité
     start: 
-    end: 2017
+    end: 
     summary: |
     button:
       text: Download dissertation
       url: /resume.pdf
       icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: MSc Cognitive Science (Cogmaster), 2012
+    institution: Ecole Normale Supérieure & Université Paris Cité
+    start: 
+    end: 
+  - degree: BS Psychology, 2010
+    institution: Université Paris Cité
+    start: 
+    end: 
 
 experience:
   - role: Senior AI Research Scientist
