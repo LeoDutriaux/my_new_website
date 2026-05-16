@@ -16,9 +16,9 @@ sections:
         text: Download CV
         url: uploads/CV Léo Dutriaux.pdf
       headings:
-        about: ''
         education: ''
         interests: ''
+        about: ''
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
