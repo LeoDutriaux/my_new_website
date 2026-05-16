@@ -11,7 +11,7 @@ name:
 postnominals:
   - PhD
 status:
-  icon: "☕️"
+  icon: ""
 role: Assistant Professor
 bio: |
   I am currently Assistant Professor at the EMC research group, Université Lumière Lyon 2. 
@@ -67,51 +67,56 @@ education:
     end: 
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Research and Teaching Assistant (ATER)
+    org: Université Paris Nanterre
+    start: 2022-09-01
+    end: 2023-08-31
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
     button:
       text: View portfolio
       url: /
       icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+  - role: Postdoctoral Researcher
+    org: University of Trento
+    start: 2019-10-15
+    end: 2022-08-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+  - role: Postdoctoral Researcher
+    org: University of Glasgow
+    start: 2017-09-01
+    end: 2019-10-14
+    summary: |
+      
 
-skills:
-  - name: Technical Skills
-    items:
-      - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
-
-languages:
-  - name: English
-    level: 5
-    label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
-
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - label: Python
+#         level: 5
+#       - label: Machine Learning
+#         level: 5
+#       - label: Cloud Computing
+#         level: 4
+#   - name: Research & Communication
+#     items:
+#       - label: Academic Writing
+#         level: 5
+#       - label: Conference Presentations
+#         level: 4
+#       - label: Grant Proposals
+#         level: 4
+# 
+# languages:
+#   - name: English
+#     level: 5
+#     label: Native
+#   - name: Spanish
+#     level: 4
+#     label: Fluent
+# 
+# awards:
+#   - title: Best Paper Award
+#     awarder: NeurIPS
+#     date: "2022-12-01"
+#     summary: Awarded for groundbreaking work on efficient training of large models.
+#     icon: hero/trophy
