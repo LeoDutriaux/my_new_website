@@ -37,13 +37,7 @@ sections:
     content:
       title: Research Interests
       text: |
-          - Memory
-          - Language & Conceptual processing
-          - Spatial cognition
-          - Health cognition
-          - Embodied cognition
-    design:
-      columns: '3'
+          "Memory" "Language & Conceptual processing" "Spatial cognition" "Health cognition" "Embodied cognition"
   - block: markdown
     content:
       title: '📚 My Research'
