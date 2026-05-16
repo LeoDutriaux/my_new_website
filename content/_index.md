@@ -24,6 +24,8 @@ sections:
       background:
         gradient_mesh:
           enable: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
 
       # Name heading sizing to accommodate long or short names
       name:
@@ -37,7 +39,7 @@ sections:
     content:
       title: Research Interests
       text: |
-          - Memory - Language & Conceptual processing - Spatial cognition - Health cognition - Embodied cognition
+          `Memory` `Language & Conceptual processing` `Spatial cognition` `Health cognition` `Embodied cognition`
     design:
       spacing:
         padding: ['20px', '0', '20px', '0']
