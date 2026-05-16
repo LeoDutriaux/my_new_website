@@ -37,7 +37,11 @@ sections:
     content:
       title: Research Interests
       text: |
-        `Machine Learning` `Computer Vision` `Bayesian Inference`
+          - Memory
+          - Language & Conceptual processing
+          - Spatial cognition
+          - Health cognition
+          - Embodied cognition
   - block: markdown
     content:
       title: '📚 My Research'
