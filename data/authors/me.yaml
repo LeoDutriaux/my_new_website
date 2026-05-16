@@ -73,8 +73,8 @@ experience:
     end: 2023-08-31
     summary: |
     button:
-      text: View portfolio
-      url: /
+      text: 
+      url: 
       icon: hero/arrow-down-tray
   - role: Postdoctoral Researcher
     org: University of Trento
