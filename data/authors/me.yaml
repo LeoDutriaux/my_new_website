@@ -24,16 +24,21 @@ links:
   - icon: at-symbol
     url: mailto:leo.dutriaux@univ-lyon2.fr
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/leodut.bsky.social
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/LeoDutriaux
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://www.linkedin.com/in/l%C3%A9o-dutriaux-4ba11b71/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.co.uk/citations?user=DfNQ0t0AAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0001-6304-8691
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Leo_Dutriaux
+  - icon: academicons/osf
+    url: https://osf.io/g6c3m/
+             
 
 interests:
   - Memory
