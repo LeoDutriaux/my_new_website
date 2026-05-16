@@ -48,23 +48,23 @@ interests:
   - Embodied cognition
 
 education:
-  - degree: PhD Cognitive Science, 2016
+  - degree: PhD Cognitive Science
     institution: Université Paris Cité
-    start: 
-    end: 
+    start: 2012-09-01
+    end: 2016-11-30
     summary: |
     button:
-      text: Download dissertation
-      url: /resume.pdf
+      text: 
+      url: 
       icon: hero/arrow-down-tray
-  - degree: MSc Cognitive Science (Cogmaster), 2012
+  - degree: MSc Cognitive Science (Cogmaster)
     institution: Ecole Normale Supérieure & Université Paris Cité
-    start: 
-    end: 
-  - degree: BS Psychology, 2010
+    start: 2010-09-01
+    end: 2012-08-31
+  - degree: BS Psychology
     institution: Université Paris Cité
-    start: 
-    end: 
+    start: 2007-09-01
+    end: 2010-08-31
 
 experience:
   - role: Research and Teaching Assistant (ATER)
