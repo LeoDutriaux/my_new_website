@@ -42,6 +42,8 @@ sections:
           - Spatial cognition
           - Health cognition
           - Embodied cognition
+    design:
+      columns: '3'
   - block: markdown
     content:
       title: '📚 My Research'
