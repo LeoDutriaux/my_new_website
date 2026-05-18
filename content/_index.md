@@ -79,7 +79,7 @@ sections:
     design:
       view: citation
       spacing:
-        padding: ['10px', '0', '10px', '0']
+        padding: ['20px', '0', '20spx', '0']
   # - block: collection
   #   id: talks
   #   content:
