@@ -49,7 +49,7 @@ sections:
         Please reach out to collaborate !
         
     design:
-      css_class: 'w-full max-w-full'
+      css_class: 'max-width: 100%;'
       columns: '1'
   - block: markdown
     content:
@@ -63,7 +63,7 @@ sections:
             <span class="px-3 py-1 rounded-full bg-primary-100 text-primary-800 text-sm">Embodied cognition</span>
           </div>
     design:
-      css_class: 'w-full max-w-full'
+      css_class: 'max-width: 100%;'
       spacing:
         padding: ['20px', '0', '20px', '0']
   - block: collection
