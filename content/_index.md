@@ -50,7 +50,7 @@ sections:
         
     design:
       spacing:
-        padding: ['10px', '0', '10px', '0']
+        padding: ['20px', '0', '10px', '0']
       css_class: 'max-width: 100%;'
       columns: '1'
   - block: markdown
