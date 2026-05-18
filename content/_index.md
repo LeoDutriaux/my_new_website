@@ -39,7 +39,13 @@ sections:
     content:
       title: Research Interests
       text: |
-          Memory · Language & Conceptual processing · Spatial cognition · Health cognition · Embodied cognition
+          <div class="flex flex-wrap gap-2">
+            <span class="px-3 py-1 rounded-full bg-primary-100 text-primary-800 text-sm">Memory</span>
+            <span class="px-3 py-1 rounded-full bg-primary-100 text-primary-800 text-sm">Language & Conceptual processing</span>
+            <span class="px-3 py-1 rounded-full bg-primary-100 text-primary-800 text-sm">Spatial cognition</span>
+            <span class="px-3 py-1 rounded-full bg-primary-100 text-primary-800 text-sm">Health cognition</span>
+            <span class="px-3 py-1 rounded-full bg-primary-100 text-primary-800 text-sm">Embodied cognition</span>
+          </div>
     design:
       spacing:
         padding: ['20px', '0', '20px', '0']
