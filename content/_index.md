@@ -50,7 +50,7 @@ sections:
         
     design:
       spacing:
-        padding: ['0', '0', '0', '0']
+        padding: ['5px', '0', '5px', '0']
       css_class: 'max-width: 100%;'
       columns: '1'
   - block: markdown
@@ -67,7 +67,7 @@ sections:
     design:
       css_class: 'max-width: 100%;'
       spacing:
-        padding: ['0', '0', '0', '0']
+        padding: ['5px', '0', '5px', '0']
   - block: collection
     content:
       title: Recent Publications
