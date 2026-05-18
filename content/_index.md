@@ -37,6 +37,21 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
+      title: '📚 Bio'
+      subtitle: ''
+      text: |
+        I am currently Assistant Professor at the EMC research group, Université Lumière Lyon 2.
+  
+        My research interests include memory, language, spatial cognition, and health cognition from a grounded, embodied, and situated perspective. As a strong supporter of interdisciplinarity I use a wide range of method, from behavior (experiment, surveys) to neuroimaging (EEG, fMRI).
+
+        I also co-developped Neuropsydia, a Python Module for creating experiments, tasks and questionnaires.
+
+        Please reach out to collaborate !
+        
+    design:
+      columns: '1'
+  - block: markdown
+    content:
       title: Research Interests
       text: |
           <div class="flex flex-wrap gap-2">
@@ -49,18 +64,6 @@ sections:
     design:
       spacing:
         padding: ['20px', '0', '20px', '0']
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        My research interests include memory, language, spatial cognition, and health cognition from a grounded, embodied, and situated perspective. As a strong supporter of interdisciplinarity I use a wide range of method, from behavior (experiment, surveys) to neuroimaging (EEG, fMRI).
-
-        I also co-developped Neuropsydia, a Python Module for creating experiments, tasks and questionnaires.
-
-        Please reach out to collaborate 😃
-    design:
-      columns: '1'
   - block: collection
     content:
       title: Recent Publications
