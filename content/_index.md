@@ -49,6 +49,8 @@ sections:
         Please reach out to collaborate !
         
     design:
+      spacing:
+        padding: ['0', '0', '0', '0']
       css_class: 'max-width: 100%;'
       columns: '1'
   - block: markdown
@@ -65,7 +67,7 @@ sections:
     design:
       css_class: 'max-width: 100%;'
       spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding: ['0', '0', '0', '0']
   - block: collection
     content:
       title: Recent Publications
