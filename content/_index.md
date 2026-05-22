@@ -58,11 +58,11 @@ sections:
       title: Research Interests
       text: |
           <div class="flex flex-wrap gap-2">
-            <span class="px-3 py-1 rounded-full bg-primary-100 text-primary-800 text-sm">Memory</span>
-            <span class="px-3 py-1 rounded-full bg-primary-100 text-primary-800 text-sm">Language & Conceptual processing</span>
-            <span class="px-3 py-1 rounded-full bg-primary-100 text-primary-800 text-sm">Spatial cognition</span>
-            <span class="px-3 py-1 rounded-full bg-primary-100 text-primary-800 text-sm">Health cognition</span>
-            <span class="px-3 py-1 rounded-full bg-primary-100 text-primary-800 text-sm">Embodied cognition</span>
+            <span class="px-3 py-1 rounded-full border border-primary-500 text-primary-500 text-sm">Memory</span>
+            <span class="px-3 py-1 rounded-full border border-primary-500 text-primary-500 text-sm">Language & Conceptual processing</span>
+            <span class="px-3 py-1 rounded-full border border-primary-500 text-primary-500 text-sm">Spatial cognition</span>
+            <span class="px-3 py-1 rounded-full border border-primary-500 text-primary-500 text-sm">Health cognition</span>
+            <span class="px-3 py-1 rounded-full border border-primary-500 text-primary-500 text-sm">Embodied cognition</span>
           </div>
     design:
       css_class: 'max-width: 100%;'
