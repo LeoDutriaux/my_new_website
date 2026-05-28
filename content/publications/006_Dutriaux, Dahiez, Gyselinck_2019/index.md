@@ -5,7 +5,7 @@ authors:
 - Dahiez, X.
 - Gyselinck, V.
 date: "2019-04-01T00:00:00Z"
-doi: ""
+doi: "10.1177/1747021818785096"
 featured: false
 image:
   caption: ""

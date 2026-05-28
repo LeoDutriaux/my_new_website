@@ -5,7 +5,7 @@ authors:
 - Dutriaux, L.
 - Scheepers, C.
 date: "2018-09-01T00:00:00Z"
-doi: ""
+doi: "10.1098/rstb.2017.0144"
 featured: false
 image:
   caption: ""

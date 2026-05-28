@@ -7,7 +7,7 @@ authors:
 - Riva, G.
 - Piolino, P.
 date: "2019-06-01T00:00:00Z"
-doi: ""
+doi: "10.3390/jcm8050620"
 featured: false
 image:
   caption: ""

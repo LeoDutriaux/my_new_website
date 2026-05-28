@@ -7,7 +7,7 @@ authors:
 - Grison, E.
 - Nicolas, S.
 date: "2019-02-01T00:00:00Z"
-doi: ""
+doi: "10.1016/j.jenvp.2018.10.008"
 featured: false
 image:
   caption: ""

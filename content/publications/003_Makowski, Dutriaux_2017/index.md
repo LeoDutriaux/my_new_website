@@ -4,7 +4,7 @@ authors:
 - Makowski, D.
 - Dutriaux, L.
 date: "2017-10-01T00:00:00Z"
-doi: ""
+doi: "10.21105/joss.00259"
 featured: false
 image:
   caption: ""

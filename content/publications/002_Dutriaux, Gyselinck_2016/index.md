@@ -4,7 +4,7 @@ authors:
 - Dutriaux, L.
 - Gyselinck, V.
 date: "2016-10-01T00:00:00Z"
-doi: ""
+doi: "10.4074/S0003503316000373"
 featured: false
 image:
   caption: ""

@@ -5,7 +5,7 @@ authors:
 - Nicolas, S.
 - Gyselinck, V.
 date: "2021-01-01T00:00:00Z"
-doi: ""
+doi: "10.1080/13825585.2019.1708252"
 featured: false
 image:
   caption: ""
