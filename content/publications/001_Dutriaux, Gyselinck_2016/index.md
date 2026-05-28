@@ -4,7 +4,7 @@ authors:
 - Dutriaux, L.
 - Gyselinck, V.
 date: "2016-09-01T00:00:00Z"
-doi: ""
+doi: "10.1371/journal.pone.0159108"
 featured: false
 image:
   caption: ""
@@ -27,6 +27,6 @@ url_pdf: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0159108"
+url_source: ""
 url_video: ""
 ---
