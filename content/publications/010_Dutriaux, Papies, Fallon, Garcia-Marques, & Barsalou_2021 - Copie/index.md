@@ -7,7 +7,7 @@ authors:
 - Garcia-Marques, L.
 - Barsalou, L. W.
 date: "2021-12-01T00:00:00Z"
-doi: ""
+doi: "10.1186/s41235-021-00338-6"
 featured: true
 image:
   caption: ""
